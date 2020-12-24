@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               Container(
                 child: Image.asset(
-                  'app-logo.png',
+                  'assets/app-logo.png',
                   fit: BoxFit.contain,
                   height: 35,
                 ),
